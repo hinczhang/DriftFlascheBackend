@@ -1,0 +1,7 @@
+pymongo
+flask
+flask_restful
+flask_cors
+pyjwt
+geopy
+gevent
